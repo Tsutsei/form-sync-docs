@@ -1,0 +1,6 @@
+title: Form Sync for Jira
+description: Documentation, privacy policy, terms and support for the Form Sync app for Jira Cloud.
+theme: minima
+header_pages:
+  - index.md
+  - support.md
