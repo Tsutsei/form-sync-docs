@@ -6,6 +6,7 @@ permalink: /support/
 
 Need help with **Form Sync for Jira**?
 
+- **Support portal:** [tsutsei-support.atlassian.net](https://tsutsei-support.atlassian.net/servicedesk/customer/portal/1) – raise a request (technical support, bug reports, licensing and billing, feature ideas).
 - **E-mail:** [t.buchta@post.cz](mailto:t.buchta@post.cz)
 - **Response time:** within 2 business days (Central European Time).
 
